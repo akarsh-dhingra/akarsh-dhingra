@@ -72,8 +72,10 @@ Open to **full-time**, **internship-to-full-time**, and **strong founding collab
 
 ### GitHub pulse
 
-![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarsh-dhingra&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh-dhingra&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api?username=akarsh-dhingra&show_icons=true&theme=dark&hide_border=true" alt="Akarsh's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=akarsh-dhingra&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
 ---
 
