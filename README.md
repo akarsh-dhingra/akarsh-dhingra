@@ -2,7 +2,7 @@
 
  I turn ambiguous product ideas into working systems — APIs, real-time backends, and agentic AI products that ship.
 
-Final-year Electronics & Computer Engineering @ [Thapar Institute of Engineering & Technology](https://www.thapar.edu/) (CGPA 8.30) · Joint Secretary, Thapar Venture Club (300+ members) · Open to founding / early-stage engineering roles
+Final-year Electronics & Computer Engineering @ [Thapar Institute of Engineering & Technology](https://www.thapar.edu/) (CGPA 8.24) · Joint Secretary, Thapar Venture Club (300+ members) · Open to founding / early-stage engineering roles
 
 [LinkedIn](https://www.linkedin.com/in/akarsh-dhingra89) · [GitHub](https://github.com/akarsh-dhingra)
 
@@ -67,15 +67,6 @@ Prefer: clear ownership boundaries · production-shaped APIs · systems I can ex
 Open to **full-time**, **internship-to-full-time**, and **strong founding collabs**.
 
 > Prefer async first contact: [LinkedIn DM](https://www.linkedin.com/in/akarsh-dhingra89) with 2–3 lines on the problem, stage, and what “week 1” looks like.
-
----
-
-### GitHub pulse
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api?username=akarsh-dhingra&show_icons=true&theme=dark&hide_border=true" alt="Akarsh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=akarsh-dhingra&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 ---
 
