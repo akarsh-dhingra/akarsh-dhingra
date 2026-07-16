@@ -24,7 +24,6 @@ I work best at **0 → 1**: unclear requirements, tight timelines, and systems t
 | Project | What it is | Why it matters |
 | --- | --- | --- |
 | [**QuickNow**](https://github.com/akarsh-dhingra/QuickNow-v1) · [Live](https://amazonhackon-aw5eqrkcezddwngnn47xql.streamlit.app/) | Intent-driven AI shopping agent | AWS Bedrock agent loop + DynamoDB catalog/memory + budget-aware cart optimization + conversational refinement |
-| [**100xness**](https://github.com/akarsh-dhingra/100xness-v2) | Real-time options-style trading platform | Turborepo microservices (API / engine / price poller), Redis streams, PostgreSQL + Prisma, live BTC-USDC execution |
 | [**Event-Driven Inventory**](https://github.com/akarsh-dhingra/EventDriven_InventoryMgt) | Internal asset management SaaS | Event-driven architecture for startup / enterprise asset workflows |
 | [**MacroMic**](https://github.com/akarsh-dhingra/Fitness--Calorie-Agent) | Voice calorie coach for Indian users | Sarvam STT + Indic LLM → structured macros, TDEE goals, Bun + React + SQLite |
 | [**Twitter dApp**](https://github.com/akarsh-dhingra/Twitter-Dapp) | Decentralized social feed | Solidity + Hardhat, IPFS (Pinata), event indexer → MongoDB cache, React + Web3 |
