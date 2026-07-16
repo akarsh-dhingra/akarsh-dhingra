@@ -58,7 +58,7 @@ Prefer: clear ownership boundaries · production-shaped APIs · systems I can ex
 
 ### Looking for
 
-**Founding Engineer / Early Engineer** roles at seed–Series A startups where:
+**Full Stack Dev / Early Engineer** roles at seed–Series A startups or companies where:
 
 1. Product is still being discovered  
 2. Engineers own outcomes end-to-end  
