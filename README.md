@@ -1,6 +1,6 @@
 # Akarsh Dhingra
 
-**Founding-engineer DNA.** I turn ambiguous product ideas into working systems — APIs, real-time backends, and agentic AI products that ship.
+ I turn ambiguous product ideas into working systems — APIs, real-time backends, and agentic AI products that ship.
 
 Final-year Electronics & Computer Engineering @ [Thapar Institute of Engineering & Technology](https://www.thapar.edu/) (CGPA 8.30) · Joint Secretary, Thapar Venture Club (300+ members) · Open to founding / early-stage engineering roles
 
