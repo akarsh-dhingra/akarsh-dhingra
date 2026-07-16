@@ -12,8 +12,7 @@ Final-year Electronics & Computer Engineering @ [Thapar Institute of Engineering
 
 I work best at **0 → 1**: unclear requirements, tight timelines, and systems that have to work in production — not just demos.
 
-- **Backend & distributed systems** — services, streams, auth, data models, and APIs that stay maintainable under change
-- **Agentic AI products** — tool-using agents, RAG-style memory, voice → structured action loops
+- **Backend System** — services, streams, auth, data models, and APIs that stay maintainable under change
 - **Full-stack product engineering** — React/Next.js frontends with clean UX and measurable user flows
 - **Startup context** — I co-lead a 300+ member venture community; I care about product, users, and shipping velocity
 
